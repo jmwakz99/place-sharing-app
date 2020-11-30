@@ -2,5 +2,5 @@
 This is a place sharing app build in MERN stack
 
 #To run the app
-#pm install
-#pm start
+1. npm install
+2. npm start
